@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "danai"
+  site-url: "https://dangraf.github.io/danai"
+  description: "fastai walkthru"
+  repo-branch: main
+  repo-url: "https://github.com/dangraf/danai"
